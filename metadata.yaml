@@ -1,0 +1,37 @@
+_repo: Coward-or-Hero_56369
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Barker, Sale, Mrs.
+    aliases:
+    - Barker, Lucy Davies
+    - Davies-Drummond, Lucy
+    - Sale-Barker, Lucy Elizabeth Drummond Davies
+    - Barker, Lucy D. Sale
+    - Davies, Lucy Elizabeth Drummond
+    - Villiers, Lucy
+    birthdate: 1841
+    deathdate: 1892
+    gutenberg_agent_id: '47681'
+    url: http://www.gutenberg.org/2009/agents/47681
+creator:
+  author:
+    agent_name: Leclerc, Eugène (Dramatist)
+    alias: Leclerc, Eugene (Dramatist)
+    gutenberg_agent_id: '48804'
+    url: http://www.gutenberg.org/2009/agents/48804
+description: ''
+gutenberg_issued: '2018-01-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56369'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Courage -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: Coward or Hero?
+url: http://www.gutenberg.org/ebooks/56369
