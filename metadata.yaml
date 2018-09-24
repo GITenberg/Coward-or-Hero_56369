@@ -1,5 +1,5 @@
 _repo: Coward-or-Hero_56369
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Barker, Sale, Mrs.
@@ -14,6 +14,9 @@ contributor:
     deathdate: 1892
     gutenberg_agent_id: '47681'
     url: http://www.gutenberg.org/2009/agents/47681
+covers:
+- cover_type: archival
+  image_path: 56369-h/images/cover.jpg
 creator:
   author:
     agent_name: Leclerc, Eugène (Dramatist)
@@ -21,6 +24,8 @@ creator:
     gutenberg_agent_id: '48804'
     url: http://www.gutenberg.org/2009/agents/48804
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56369#Coward-or-Hero
 gutenberg_issued: '2018-01-14'
 gutenberg_type: Text
 identifiers:
